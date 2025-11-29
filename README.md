@@ -11,6 +11,12 @@ cd business_intelligence
 
 ## 本地修改文件
 
+2. 每次在修改代码之前，都请您同步代码为最新的代码，在终端中输入：
+
+```
+ git pull origin main
+```
+
 2. 如果要进行文件的修改和编写，请在终端中输入：
 
 ```
@@ -25,15 +31,13 @@ git checkout -b feat/代码的功能
 
 ## 向仓库提交修改
 
-4. 请先配置您的邮箱和名字，邮箱请务必设置为和github注册时相同的邮箱。在终端中输入
+4. 请先配置您的邮箱和名字（只需要配置一次），邮箱请务必设置为和github注册时相同的邮箱。在终端中输入：
 
 ```
 git config --global user.email "you@example.com"
 
 git config --global user.name "Your Name"
 ```
-
-
 
 4. 如果您想将修改的代码提交到GitHub仓库中，请依次输入：
 
