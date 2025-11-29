@@ -35,5 +35,8 @@ git commit -m "对您工作的简要描述"
 git push origin feat/代码的功能
 ```
 
-5. 合并到 `dev`分支 ：浏览器中打开：https://github.com/Sunzhuoran-bit/business_intelligence。点击Pull requests，再点击页面中的绿色按钮：Compare & pull request。
+5. 合并到 `dev`分支 ：浏览器中打开：https://github.com/Sunzhuoran-bit/business_intelligence。点击Pull requests，再点击页面中的绿色按钮：Compare & pull request。设置页面中的base:dev。compare:feat/代码的功能。设置好之后，点击create_pull_request，等待审核。
 
+
+
+如果仍有不懂的地方，请询问AI工具。
