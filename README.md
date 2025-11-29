@@ -25,6 +25,16 @@ git checkout -b feat/代码的功能
 
 ## 向仓库提交修改
 
+4. 请先配置您的邮箱和名字，邮箱请务必设置为和github注册时相同的邮箱。在终端中输入
+
+```
+git config --global user.email "you@example.com"
+
+git config --global user.name "Your Name"
+```
+
+
+
 4. 如果您想将修改的代码提交到GitHub仓库中，请依次输入：
 
 ```
